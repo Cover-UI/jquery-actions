@@ -1,6 +1,13 @@
 # jquery-actions
 This is a jQuery plugin for adding action and listeners of this actions on jQuery. 
 
+## Installation
+```html
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Cover-UI/jquery-actions@main/app.js"></script>
+```
+
+
 ## Usage Example
 ```html
     <!-- index.html -->
